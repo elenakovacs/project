@@ -1,7 +1,14 @@
 @import url("./bootstrap/dist/css/bootstrap.min.css");
 
-
 body{
     margin: 0;
-   background-color: aqua;
+   
+}
+
+.cardimg{
+    object-fit: cover;
+}
+
+.d-block{
+    object-fit: cover;
 }
