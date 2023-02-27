@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "final project with html & css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenakovacs/project.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "elena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenakovacs/project/issues"
+  },
+  "homepage": "https://github.com/elenakovacs/project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
